@@ -1,2 +1,2 @@
-# kiberry_terminal
-python version of kiberry terminal
+# New Kiberry Terminal
+The new version of kiberry
