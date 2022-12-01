@@ -1,0 +1,6 @@
+# Config for Kiberry Terminal
+
+# COLORAMA SCHEME CONFIGURATION
+schp = Fore.LIGHTGREEN_EX
+schs = Fore.LIGHTMAGENTA_EX
+scht = Fore.RED
